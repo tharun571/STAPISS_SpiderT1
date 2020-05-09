@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Factorial_DeltaT1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Factorial_DeltaT1/app/src/androidTest/java" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SOP_Task0" vcs="Git" />
+  </component>
+</project>
